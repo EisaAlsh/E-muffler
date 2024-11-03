@@ -1,3 +1,7 @@
+// Codes to Test the Throttle Positioning Sensor Ver.1.0
+
+
+
 int throttlePin = A0; // Analog pin connected to throttle position sensor
 int throttleValue = 0;
 
